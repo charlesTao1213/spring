@@ -1,5 +1,5 @@
-*/build
-*/out
+*.class
 .gradle
 .idea
-/buildSrc
+/build
+*/build
